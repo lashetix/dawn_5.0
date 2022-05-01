@@ -69,7 +69,7 @@
         "7a8c0b03-e09f-4a5e-a216-024d3399e1e2": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<h5 style=\"padding-bottom:30px\"><u>Free Delivery on orders over R400<\/h5>"
+            "custom_liquid": "<h5 style=\"padding-bottom:30px\"><u>Free Delivery on orders over R400<\/u><\/h5>"
           }
         },
         "description": {
@@ -80,9 +80,9 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials",
-            "icon": "leather",
-            "content": "",
+            "heading": "Feautures",
+            "icon": "star",
+            "content": "<p>{{ product.metafields.my_fields.features | metafield_tag }}<\/p>",
             "page": ""
           }
         },
@@ -91,16 +91,7 @@
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
+            "content": "<p>- 3-7 Working days throughout SA.<\/p><p>- Free delivery on orders over R400<\/p><p>- Prefer to pick up? Pick up from over 1500 Pargo Points across SA. <\/p><p>- Return within 48hrs<\/p>",
             "page": ""
           }
         },
@@ -109,7 +100,7 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "",
+            "content": "<p>Our false eyelashes are hand-crafted with care, precision, and premium-quality materials, meaning they should last for up to 20 wears, or even longer if you’re lucky! However, as with any strip lashes, proper care is the only way to ensure you get the most possible use from them.<\/p><p>View our <a href=\"https:\/\/shoplashnetix.com\/pages\/how-to-apply\" title=\"https:\/\/shoplashnetix.com\/pages\/how-to-apply\">Care Guide<\/a> for more info.<\/p>",
             "page": ""
           }
         },
@@ -135,7 +126,6 @@
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
-        "collapsible-row-2",
         "collapsible-row-3",
         "share"
       ],
