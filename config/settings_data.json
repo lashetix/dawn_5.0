@@ -137,17 +137,17 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
-            }
-          },
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "heading": "Info",
+              "heading": "Quick Links",
+              "menu": "customer-care"
+            }
+          },
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "About",
               "menu": "footer"
             }
           },
@@ -155,13 +155,13 @@
             "type": "text",
             "settings": {
               "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "subtext": "<p>We believe eyelashes are more than just a beauty trend. The right lashes can express your true self, like an accessory that truly enhances your best features. Our lashes will complete your beauty routine without the side effects, complexity and appointments of glue lashes.<\/p>"
             }
           }
         },
         "block_order": [
-          "footer-0",
           "footer-1",
+          "footer-0",
           "footer-2"
         ],
         "settings": {
