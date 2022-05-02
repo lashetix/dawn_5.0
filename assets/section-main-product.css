@@ -262,6 +262,8 @@ fieldset.product-form__input .form__label {
     color: black;
     border: 1px solid;
   margin-bottom: 1rem;
+  box-shadow: 5px 5px #121212;
+  
 }
 
 .no-js .product-form__submit.button--secondary {
