@@ -258,6 +258,9 @@ fieldset.product-form__input .form__label {
 }
 
 .product-form__submit {
+    background: #75d670;
+    color: black;
+    border: 1px solid;
   margin-bottom: 1rem;
 }
 
