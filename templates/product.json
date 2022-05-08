@@ -3,6 +3,11 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "44a24adb-df97-4c00-a506-a53f73a98464": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -23,7 +28,7 @@
         "194ad55b-2769-4e3c-9807-823b629642ae": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"text-align:center;margin-bottom:-30px;\">\n<script async src=\"https:\/\/widgets.payflex.co.za\/your-merchant-name\/partpay-widget-0.1.1.js?type=calculator&min=10&max=20000&amount={{ product.price | money_without_currency | remove: ',' }}\" type=\"application\/javascript\"><\/script>"
+            "custom_liquid": "<script async src=\"https:\/\/widgets.payflex.co.za\/your-merchant-name\/partpay-widget-0.1.1.js?type=calculator&min=10&max=20000&amount={{ product.price | money_without_currency | remove: ',' }}\" type=\"application\/javascript\"><\/script>"
           }
         },
         "variant_picker": {
@@ -48,7 +53,7 @@
         "7a8c0b03-e09f-4a5e-a216-024d3399e1e2": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<h5 style=\"padding-bottom:30px\"><u>Free Delivery on orders over R400<\/u><\/h5>"
+            "custom_liquid": "<h5 style=\"padding-bottom:30px\"><u>Free Delivery<\/u> or <u>Pick Up<\/u> from 1500 locations throughout SA.<\/h5>"
           }
         },
         "30fedf66-00ae-4b3a-a3d7-10419259507c": {
@@ -112,6 +117,7 @@
         }
       },
       "block_order": [
+        "44a24adb-df97-4c00-a506-a53f73a98464",
         "title",
         "caption",
         "price",
