@@ -2,7 +2,7 @@
   "current": {
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#121212",
-    "gradient_accent_1": "",
+    "gradient_accent_1": "linear-gradient(255deg, rgba(240, 108, 162, 1) 27%, rgba(218, 191, 255, 1) 85%)",
     "colors_accent_2": "#ff3889",
     "gradient_accent_2": "",
     "colors_text": "#121212",
@@ -165,7 +165,7 @@
           "footer-2"
         ],
         "settings": {
-          "color_scheme": "accent-1",
+          "color_scheme": "inverse",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
