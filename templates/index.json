@@ -18,30 +18,42 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
+    "16520317524563abc8": {
+      "type": "collage",
+      "blocks": {
+        "7a89a00c-f357-4758-8bc5-1b437b10f646": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BUNDLE_AND_SAVE.webp",
+            "image_padding": false
+          }
+        },
+        "f6f839a3-f7fa-4342-8842-40ad2feee4d3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PAYFLEX_b73767f2-52fc-41f9-a537-7ff170780444.webp",
+            "image_padding": false
+          }
+        },
+        "1652031752aa93515b-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "lash-bundles"
+          }
+        }
+      },
+      "block_order": [
+        "7a89a00c-f357-4758-8bc5-1b437b10f646",
+        "f6f839a3-f7fa-4342-8842-40ad2feee4d3",
+        "1652031752aa93515b-2"
+      ],
       "settings": {
-        "title": "Best Sellers",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "best-sellers",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
         "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": true,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 32,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -207,13 +219,40 @@
         "padding_bottom": 52
       }
     },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Sellers",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "best-sellers",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
+    },
     "165203156730a5679c": {
       "type": "newsletter",
       "blocks": {
         "16520315673d231e61-0": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails",
+            "heading": "Lets Be Friends With Benefits",
             "heading_size": "h1"
           }
         },
@@ -235,63 +274,24 @@
         "16520315673d231e61-2"
       ],
       "settings": {
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 36
-      }
-    },
-    "16520317524563abc8": {
-      "type": "collage",
-      "blocks": {
-        "57579df5-89b2-4968-90b9-525b88417e6b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/bundles.webp",
-            "image_padding": false
-          }
-        },
-        "f6f839a3-f7fa-4342-8842-40ad2feee4d3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PAYFLEX_b73767f2-52fc-41f9-a537-7ff170780444.webp",
-            "image_padding": false
-          }
-        },
-        "1652031752aa93515b-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "lash-bundles"
-          }
-        }
-      },
-      "block_order": [
-        "57579df5-89b2-4968-90b9-525b88417e6b",
-        "f6f839a3-f7fa-4342-8842-40ad2feee4d3",
-        "1652031752aa93515b-2"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 20
       }
     }
   },
   "order": [
     "1651328137f64edafb",
     "1652001804ad8693dc",
-    "featured_collection",
+    "16520317524563abc8",
     "1652031693337485b5",
     "16520305679b967c33",
     "1652027696234cca78",
     "16520218383daa474d",
     "1652026084995cda92",
     "1652030601e4b23c2f",
-    "165203156730a5679c",
-    "16520317524563abc8"
+    "featured_collection",
+    "165203156730a5679c"
   ]
 }
