@@ -45,6 +45,12 @@
             "show_dynamic_checkout": false
           }
         },
+        "7a8c0b03-e09f-4a5e-a216-024d3399e1e2": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<h5 style=\"padding-bottom:30px\"><u>Free Delivery on orders over R400<\/u><\/h5>"
+          }
+        },
         "30fedf66-00ae-4b3a-a3d7-10419259507c": {
           "type": "text",
           "settings": {
@@ -64,12 +70,6 @@
           "settings": {
             "text": "✓Water\/Sweat Resistant",
             "text_style": "subtitle"
-          }
-        },
-        "7a8c0b03-e09f-4a5e-a216-024d3399e1e2": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<h5 style=\"padding-bottom:30px\"><u>Free Delivery on orders over R400<\/u><\/h5>"
           }
         },
         "description": {
@@ -119,10 +119,10 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "7a8c0b03-e09f-4a5e-a216-024d3399e1e2",
         "30fedf66-00ae-4b3a-a3d7-10419259507c",
         "a5b331a9-667e-40fd-9222-0d13dae12cbe",
         "cb13a0ec-3e80-4897-9734-cb5b2f262c15",
-        "7a8c0b03-e09f-4a5e-a216-024d3399e1e2",
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
