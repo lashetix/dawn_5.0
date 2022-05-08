@@ -175,6 +175,15 @@
         "padding_bottom": 12
       }
     },
+    "1652048552221ec86d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div >\n      <h1 align=center>Why Lashnetix?<\/h1>\n          <\/div>\n  <div style=\"margin:auto;max-width:1080px;\">\n  <div class=\"flex-container-left-on-top\">\n    <div class=\"flex-item-left\" ><h4 class=\"h4lp\">LASHES SO LONG<h4><h2 class=\"h2lp\">you cant see your haters<\/h2><p class=\"plp\">As soon as you apply our lashes  you’ll immediately  experience (almost) everlasting Lust. They're lightweight, fluttery and <b>effortlessly flirty<\/b>.<\/p><\/div>\n    <div class=\"flex-img-right\"><img  class=\"image-repsonsive-why-us\" loading=\"lazy\" align=\"center\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/1.webp?v=1646331625\"><\/div>\n  <\/div>\n  \n  <div class=\"spacer\"><\/div>\n  \n  <div class=\"flex-container-right-on-top\">\n    <div class=\"flex-img-left\" ><img class=\"image-repsonsive-why-us\" loading=\"lazy\" align=\"center\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/2.webp?v=1646331625\"><\/div>\n  <div class=\"flex-item-right\"><h4 class=\"h4lp\">not just a<h4><h2 class=\"h2lp\">one night stand...<\/h2><p class=\"plp\"><b>10 Supergrip mini-magnets<\/b> for comfort and hold. Wear up to 60 times* because there's no gunky glue to mess up the band. \n  The joys of Lashnetix. <\/p><\/div>\n  \n  <div class=\"flex-container-left-on-top\">\n    <div class=\"flex-item-right\"><h4 class=\"h4lp\">advanced lash technology<h4><h2 class=\"h2lp\">high definition<\/h2><p class=\"plp\">These faux lashes are made from Hi-Def technology that features:<li class=\"plp\">Complete <b>Natural Look<\/b><\/li><li class=\"plp\">Superior <b>Water Resistance<\/b><\/li><li class=\"plp\">Heat Resistance<\/li><\/p><\/div>\n    <div class=\"flex-img-left\" ><img class=\"image-repsonsive-why-us\" loading=\"lazy\" align=\"center\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/5.webp?v=1646331625\"><\/div>\n  \n  \n  <div class=\"flex-container-right-on-top\">\n     <div class=\"flex-img-left\"><img class=\"image-repsonsive-why-us\" loading=\"lazy\" align=\"center\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/3.webp?v=1646331625\"><\/div>\n    <div class=\"flex-item-right\" ><h4 class=\"h4lp\">you don't need<h4><h2 class=\"h2lp\">a good pick up line<\/h2><p class=\"plp\">Our revolutionary magnetic liner will keep your lashes in place through the hottest of dates.\n  <b>Premium material<\/b> looks natural and works as well in the office as it does in the club.<\/p><\/div>\n  <div class=\"spacer\"><\/div>\n  \n  \n  <div class=\"flex-container-left-on-top\">\n    <div class=\"flex-item-left\"><h4 class=\"h4lp\">the problem with<h4><h2 class=\"h2lp\">traditional eyelash extensions<\/h2><p class=\"plp\">They are known to cause <b>ORBITAL CELLULITIS<\/b>, Blepharitis and damage your natural lashes. Not to mention, the glue contains <b>CANCER<\/b> causing chemicals.\n  Our Magentic Liner is Paraben and Latex Free.\n  You're <b>SAFE<\/b> with Lashentix.<\/p><\/div>\n  \n    <div class=\"flex-img-right\" ><img class=\"image-repsonsive-why-us\" align=\"center\" loading=\"lazy\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/4.webp?v=1646331625\"><\/div>\n  <\/div>  \n  <div class=\"spacer\"><\/div>\n<div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -191,20 +200,11 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "1652048552221ec86d": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div >\n      <h1 align=center>Why Lashnetix?<\/h1>\n          <\/div>\n  <div style=\"margin:auto;max-width:1080px;\">\n  <div class=\"flex-container-left-on-top\">\n    <div class=\"flex-item-left\" ><h4 class=\"h4lp\">LASHES SO LONG<h4><h2 class=\"h2lp\">you cant see your haters<\/h2><p class=\"plp\">As soon as you apply our lashes  you’ll immediately  experience (almost) everlasting Lust. They're lightweight, fluttery and <b>effortlessly flirty<\/b>.<\/p><\/div>\n    <div class=\"flex-img-right\"><img  class=\"image-repsonsive-why-us\" loading=\"lazy\" align=\"center\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/1.webp?v=1646331625\"><\/div>\n  <\/div>\n  \n  <div class=\"spacer\"><\/div>\n  \n  <div class=\"flex-container-right-on-top\">\n    <div class=\"flex-img-left\" ><img class=\"image-repsonsive-why-us\" loading=\"lazy\" align=\"center\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/2.webp?v=1646331625\"><\/div>\n  <div class=\"flex-item-right\"><h4 class=\"h4lp\">not just a<h4><h2 class=\"h2lp\">one night stand...<\/h2><p class=\"plp\"><b>10 Supergrip mini-magnets<\/b> for comfort and hold. Wear up to 60 times* because there's no gunky glue to mess up the band. \n  The joys of Lashnetix. <\/p><\/div>\n  \n  <div class=\"flex-container-left-on-top\">\n    <div class=\"flex-item-right\"><h4 class=\"h4lp\">advanced lash technology<h4><h2 class=\"h2lp\">high definition<\/h2><p class=\"plp\">These faux lashes are made from Hi-Def technology that features:<li class=\"plp\">Complete <b>Natural Look<\/b><\/li><li class=\"plp\">Superior <b>Water Resistance<\/b><\/li><li class=\"plp\">Heat Resistance<\/li><\/p><\/div>\n    <div class=\"flex-img-left\" ><img class=\"image-repsonsive-why-us\" loading=\"lazy\" align=\"center\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/5.webp?v=1646331625\"><\/div>\n  \n  \n  <div class=\"flex-container-right-on-top\">\n     <div class=\"flex-img-left\"><img class=\"image-repsonsive-why-us\" loading=\"lazy\" align=\"center\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/3.webp?v=1646331625\"><\/div>\n    <div class=\"flex-item-right\" ><h4 class=\"h4lp\">you don't need<h4><h2 class=\"h2lp\">a good pick up line<\/h2><p class=\"plp\">Our revolutionary magnetic liner will keep your lashes in place through the hottest of dates.\n  <b>Premium material<\/b> looks natural and works as well in the office as it does in the club.<\/p><\/div>\n  <div class=\"spacer\"><\/div>\n  \n  \n  <div class=\"flex-container-left-on-top\">\n    <div class=\"flex-item-left\"><h4 class=\"h4lp\">the problem with<h4><h2 class=\"h2lp\">traditional eyelash extensions<\/h2><p class=\"plp\">They are known to cause <b>ORBITAL CELLULITIS<\/b>, Blepharitis and damage your natural lashes. Not to mention, the glue contains <b>CANCER<\/b> causing chemicals.\n  Our Magentic Liner is Paraben and Latex Free.\n  You're <b>SAFE<\/b> with Lashentix.<\/p><\/div>\n  \n    <div class=\"flex-img-right\" ><img class=\"image-repsonsive-why-us\" align=\"center\" loading=\"lazy\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/4.webp?v=1646331625\"><\/div>\n  <\/div>  \n  <div class=\"spacer\"><\/div>\n<div>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
-    "product-recommendations",
-    "1652048552221ec86d"
+    "1652048552221ec86d",
+    "product-recommendations"
   ]
 }
