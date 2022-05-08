@@ -3,7 +3,7 @@
     "1651328137f64edafb": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div>\n<a href=\"\/collections\/magnetic-liner\">\n<img class=\"desktop-only\"src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/hero-1-desktop.jpg?v=1646180543\" width=100%>\n<img class=\"mobile-only\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/hero-1-mobile.jpg?v=1646180543\" width=100%>\n<\/a>\n<\/div>",
+        "custom_liquid": "<div>\n<a href=\"\/collections\/magnetic-liner\">\n<img class=\"desktop-only\"src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/hero-1-desktop.jpg?v=1646180543\" width=100%>\n<img class=\"mobile-only\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/hero-2-mobile.webp?v=1652007139\" width=100%>\n<\/a>\n<\/div>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
@@ -16,107 +16,6 @@
         "color_scheme": "accent-2",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "1651999522cfce091f": {
-      "type": "slideshow",
-      "disabled": true,
-      "blocks": {
-        "16519995226cd68918-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/hero-1-desktop.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "16519995226cd68918-1": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "16519995226cd68918-0",
-        "16519995226cd68918-1"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "small",
-        "slider_visual": "numbers",
-        "auto_rotate": true,
-        "change_slides_speed": 3,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
       }
     },
     "rich_text": {
@@ -282,8 +181,6 @@
   "order": [
     "1651328137f64edafb",
     "1651999529a74edc7e",
-    "1651999522cfce091f",
-    "image_banner",
     "rich_text",
     "featured_collection",
     "collage",
