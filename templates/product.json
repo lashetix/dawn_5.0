@@ -175,6 +175,24 @@
         "padding_bottom": 12
       }
     },
+    "1652048653278e4adb": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "165204859532f77ae1": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1652048552221ec86d": {
       "type": "custom-liquid",
       "settings": {
@@ -204,6 +222,8 @@
   },
   "order": [
     "main",
+    "1652048653278e4adb",
+    "165204859532f77ae1",
     "1652048552221ec86d",
     "product-recommendations"
   ]
