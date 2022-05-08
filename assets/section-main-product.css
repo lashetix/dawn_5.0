@@ -546,6 +546,8 @@ a.product__text {
 
 .product__media-item.product__media-item--variant {
   display: none;
+
+    margin-top: -23px;
 }
 
 .product__media-item--variant:first-child {
