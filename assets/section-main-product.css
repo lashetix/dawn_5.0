@@ -1,6 +1,7 @@
 .product {
   margin: 0;
   margin-top:-28px;
+  margin-bottom:-28px;
 }
 
 .product.grid {
