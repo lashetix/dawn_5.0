@@ -23,7 +23,7 @@
         "194ad55b-2769-4e3c-9807-823b629642ae": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"text-align:center;margin-bottom:-10px;\">\n<script async src=\"https:\/\/widgets.payflex.co.za\/your-merchant-name\/partpay-widget-0.1.1.js?type=calculator&min=10&max=20000&amount={{ product.price | money_without_currency | remove: ',' }}\" type=\"application\/javascript\"><\/script>\n<\/div>\n<br>"
+            "custom_liquid": "<div style=\"text-align:center;margin-bottom:-30px;\">\n<script async src=\"https:\/\/widgets.payflex.co.za\/your-merchant-name\/partpay-widget-0.1.1.js?type=calculator&min=10&max=20000&amount={{ product.price | money_without_currency | remove: ',' }}\" type=\"application\/javascript\"><\/script>\n<\/div>\n<br>"
           }
         },
         "variant_picker": {
