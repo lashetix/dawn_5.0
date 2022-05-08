@@ -9,10 +9,19 @@
         "padding_bottom": 0
       }
     },
+    "1652001804ad8693dc": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n\/*Flex Cow Girl*\/\n.flex-container {\n    display: flex;\n    flex-direction: row;\n    font-size: 30px;\n    text-align: center;\n   justify-content: center;\n  }\n\/*Flex Two Row*\/\n  .flex-item-one-two {\n    padding: 0px;\n    flex: 50%;\n  }\n  \n  .flex-item-two-two {\n    padding: 0px;\n    flex: 50%;\n  }\n  \/*Flex Three Row*\/\n  .flex-item-one-three {\n    padding: 10px;\n    flex: 33.3333%;\n  }\n  \n  .flex-item-two-three {\n    padding: 10px;\n    flex: 33.3333%;\n  }\n  \n  .flex-item-three-three {\n    padding: 10px;\n    flex: 33.333%;\n  }\n\/*Flex Four Row*\/\n.flex-item-one-four {\n    padding: 10px;\n    flex: 25%;\n  }\n  \n  .flex-item-two-four {\n    padding: 10px;\n    flex: 25%;\n  }\n  \n  .flex-item-three-four {\n    padding: 10px;\n    flex: 25%;\n  }\n  \n  .flex-item-four-four {\n    padding: 10px;\n    flex: 25%;\n  }\n\n<\/style>\n<div style=\"background:;\"> \n    <h2 style=\"text-align:center;\">Apply in 3 Simple Steps<\/h2>\n  <div class=\"flex-container\">\n    <div class=\"flex-item-one-three\"> <video style=\"border-radius:100%; border:0px solid #FF3889;\" loading=\"lazy\" autoplay=\"autoplay\" loop=\"loop\" muted=\"\" width=\"100%\" height=\"auto\">\n            <source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/apply_c.webm?v=1646179618\"><\/source><\/video>\n            <h5 >1. APPLY LINER<\/h5>\n    <\/div>\n   <div class=\"flex-item-two-three\">\n   <video style=\"border-radius:100%; border:0px solid #FF3889;\" autoplay=\"autoplay\" loading=\"lazy\" loop=\"loop\" muted=\"\" width=\"100%\" height=\"auto\">\n            <source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/lash_up_c.webm?v=1646179618\">\n          <\/source><\/video>\n          <h5>2. LASH UP<\/h5>\n    <\/div>\n    \n   <div class=\"flex-item-three-three\">\n   <video style=\" border-radius:100%; border:0px solid #FF3889;\" autoplay=\"autoplay\" loading=\"lazy\" loop=\"loop\" muted=\"\" width=\"100%\" height=\"auto\">\n            <source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/lit_c.webm?v=1646179618\">\n          <\/source><\/video>\n          <h5>3. LIT AF🔥🔥🔥<\/h5>\n       <\/div>\n  <\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Best Sellers",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -32,8 +41,17 @@
         "enable_quick_add": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 28,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "16520218383daa474d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<i class=\"fas fa-recycle sp-self-center sp-mb-6\" style=\"font-size: 38px;\"><\/i>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 52
       }
     },
     "collage": {
@@ -74,21 +92,13 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "1652001804ad8693dc": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<style>\n\/*Flex Cow Girl*\/\n.flex-container {\n    display: flex;\n    flex-direction: row;\n    font-size: 30px;\n    text-align: center;\n   justify-content: center;\n  }\n\/*Flex Two Row*\/\n  .flex-item-one-two {\n    padding: 0px;\n    flex: 50%;\n  }\n  \n  .flex-item-two-two {\n    padding: 0px;\n    flex: 50%;\n  }\n  \/*Flex Three Row*\/\n  .flex-item-one-three {\n    padding: 10px;\n    flex: 33.3333%;\n  }\n  \n  .flex-item-two-three {\n    padding: 10px;\n    flex: 33.3333%;\n  }\n  \n  .flex-item-three-three {\n    padding: 10px;\n    flex: 33.333%;\n  }\n\/*Flex Four Row*\/\n.flex-item-one-four {\n    padding: 10px;\n    flex: 25%;\n  }\n  \n  .flex-item-two-four {\n    padding: 10px;\n    flex: 25%;\n  }\n  \n  .flex-item-three-four {\n    padding: 10px;\n    flex: 25%;\n  }\n  \n  .flex-item-four-four {\n    padding: 10px;\n    flex: 25%;\n  }\n\n<\/style>\n<div style=\"background:;\"> \n    <h2 style=\"text-align:center;\">Apply in 3 Simple Steps<\/h2>\n  <div class=\"flex-container\">\n    <div class=\"flex-item-one-three\"> <video style=\"border-radius:100%; border:0px solid #FF3889;\" loading=\"lazy\" autoplay=\"autoplay\" loop=\"loop\" muted=\"\" width=\"100%\" height=\"auto\">\n            <source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/apply_c.webm?v=1646179618\"><\/source><\/video>\n            <h5 >1. APPLY LINER<\/h5>\n    <\/div>\n   <div class=\"flex-item-two-three\">\n   <video style=\"border-radius:100%; border:0px solid #FF3889;\" autoplay=\"autoplay\" loading=\"lazy\" loop=\"loop\" muted=\"\" width=\"100%\" height=\"auto\">\n            <source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/lash_up_c.webm?v=1646179618\">\n          <\/source><\/video>\n          <h5>2. LASH UP<\/h5>\n    <\/div>\n    \n   <div class=\"flex-item-three-three\">\n   <video style=\" border-radius:100%; border:0px solid #FF3889;\" autoplay=\"autoplay\" loading=\"lazy\" loop=\"loop\" muted=\"\" width=\"100%\" height=\"auto\">\n            <source src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/lit_c.webm?v=1646179618\">\n          <\/source><\/video>\n          <h5>3. LIT AF🔥🔥🔥<\/h5>\n       <\/div>\n  <\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "1651328137f64edafb",
+    "1652001804ad8693dc",
     "featured_collection",
-    "collage",
-    "1652001804ad8693dc"
+    "16520218383daa474d",
+    "collage"
   ]
 }
