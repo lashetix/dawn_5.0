@@ -3,13 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -25,6 +18,30 @@
         "price": {
           "type": "price",
           "settings": {
+          }
+        },
+        "194ad55b-2769-4e3c-9807-823b629642ae": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<script async src=\"https:\/\/widgets.payflex.co.za\/your-merchant-name\/partpay-widget-0.1.1.js?type=calculator&min=10&max=20000&amount={{ product.price | money_without_currency | remove: ',' }}\" type=\"application\/javascript\"><\/script>"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
           }
         },
         "30fedf66-00ae-4b3a-a3d7-10419259507c": {
@@ -46,24 +63,6 @@
           "settings": {
             "text": "✓Water\/Sweat Resistant",
             "text_style": "subtitle"
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false
           }
         },
         "7a8c0b03-e09f-4a5e-a216-024d3399e1e2": {
@@ -112,16 +111,16 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "caption",
         "price",
-        "30fedf66-00ae-4b3a-a3d7-10419259507c",
-        "a5b331a9-667e-40fd-9222-0d13dae12cbe",
-        "cb13a0ec-3e80-4897-9734-cb5b2f262c15",
+        "194ad55b-2769-4e3c-9807-823b629642ae",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "30fedf66-00ae-4b3a-a3d7-10419259507c",
+        "a5b331a9-667e-40fd-9222-0d13dae12cbe",
+        "cb13a0ec-3e80-4897-9734-cb5b2f262c15",
         "7a8c0b03-e09f-4a5e-a216-024d3399e1e2",
         "description",
         "collapsible-row-0",
