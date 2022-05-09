@@ -8,13 +8,20 @@
         "color_scheme": "accent-1"
       }
     },
-    "16520544931e36878e": {
-      "type": "custom-liquid",
+    "16520545031dab3bfe": {
+      "type": "image-banner",
       "settings": {
-        "custom_liquid": "<script async src=\"https:\/\/widgets.payflex.co.za\/your-merchant-name\/partpay-widget-0.1.1.js?type=calculator&min=10&max=20000&amount={{ product.price | money_without_currency | remove: ',' }}\" type=\"application\/javascript\"><\/script>",
+        "image": "shopify:\/\/shop_images\/PAYFLEX_aad96a17-fc61-42a0-9572-dd8c83dada2a.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "product-grid": {
@@ -38,7 +45,7 @@
   },
   "order": [
     "banner",
-    "16520544931e36878e",
+    "16520545031dab3bfe",
     "product-grid"
   ]
 }
