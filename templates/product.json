@@ -5,6 +5,7 @@
       "blocks": {
         "44a24adb-df97-4c00-a506-a53f73a98464": {
           "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
           "settings": {
           }
         },
@@ -61,6 +62,12 @@
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<h5 style=\"padding-bottom:30px\"><u>Free Delivery<\/u> or <u>Pick Up<\/u> from 1500 locations throughout SA.<\/h5>"
+          }
+        },
+        "3599ed9f-b8b7-4839-ab68-4c633c6893ea": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<script type=\"text\/javascript\">\nvar _learnq = _learnq || [];\n\tdocument.getElementById(\"AddToCart\").addEventListener('click',function (){\n \t\t_learnq.push(['track', 'Added to Cart', item]);\n\t});<\/script>"
           }
         },
         "b68fbdae-58c3-4361-957c-af1156fd7d31": {
@@ -153,6 +160,7 @@
         "quantity_selector",
         "buy_buttons",
         "7a8c0b03-e09f-4a5e-a216-024d3399e1e2",
+        "3599ed9f-b8b7-4839-ab68-4c633c6893ea",
         "b68fbdae-58c3-4361-957c-af1156fd7d31",
         "30fedf66-00ae-4b3a-a3d7-10419259507c",
         "a5b331a9-667e-40fd-9222-0d13dae12cbe",
