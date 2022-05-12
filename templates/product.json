@@ -37,7 +37,7 @@
           "type": "custom_liquid",
           "disabled": true,
           "settings": {
-            "custom_liquid": "<style>\n@media (max-width: 768px){\n#partPayCalculatorWidget1 {\nmargin-bottom:-28px !important;\nmargin-left:-15% !important;\n}\n#partPayCalculatorWidgetLogo{\nmargin-top: -2.5em!important;\n    margin-left: 88% !important;\n\n}\n}\n<\/style>\n<script async src=\"https:\/\/widgets.payflex.co.za\/your-merchant-name\/partpay-widget-0.1.1.js?type=calculator&min=10&max=20000&amount={{ product.price | money_without_currency | remove: ',' }}\" type=\"application\/javascript\"><\/script>"
+            "custom_liquid": "<script async src=\"https:\/\/widgets.payflex.co.za\/your-merchant-name\/partpay-widget-0.1.1.js?type=calculator&min=10&max=20000&amount={{ product.price | money_without_currency | remove: ',' }}\" type=\"application\/javascript\"><\/script>"
           }
         },
         "variant_picker": {
