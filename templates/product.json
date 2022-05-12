@@ -36,7 +36,7 @@
         "194ad55b-2769-4e3c-9807-823b629642ae": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<script async src=\"https:\/\/widgets.payflex.co.za\/your-merchant-name\/partpay-widget-0.1.1.js?type=calculator&min=10&max=20000&amount={{ product.price | money_without_currency | remove: ',' }}\" type=\"application\/javascript\"><\/script>"
+            "custom_liquid": "<style>\n@media (max-width: 768px){\n#partPayCalculatorWidget1 {\nmargin-bottom:-37px !important;\nwidth:71% !important;\n}\n#partPayCalculatorWidgetLogo{\nmargin-top: -2em!important;\n    margin-left: 16em !important;\n}\n}\n<\/style>\n<script async src=\"https:\/\/widgets.payflex.co.za\/your-merchant-name\/partpay-widget-0.1.1.js?type=calculator&min=10&max=20000&amount={{ product.price | money_without_currency | remove: ',' }}\" type=\"application\/javascript\"><\/script>"
           }
         },
         "variant_picker": {
@@ -61,7 +61,7 @@
         "7a8c0b03-e09f-4a5e-a216-024d3399e1e2": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<h5 style=\"padding-bottom:30px\"><u>Free Delivery<\/u> or <u>Pick Up<\/u> from 1500 locations throughout SA.<\/h5>"
+            "custom_liquid": "<h5 style=\"color:#dbf4ae;padding-bottom:30px\">+ Free Delivery<\/h5>"
           }
         },
         "3599ed9f-b8b7-4839-ab68-4c633c6893ea": {
