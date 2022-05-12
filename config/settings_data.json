@@ -212,6 +212,12 @@
         "disabled": true,
         "settings": {
         }
+      },
+      "18071494811699525790": {
+        "type": "shopify:\/\/apps\/artic-product-badges\/blocks\/app-embed\/e25d1158-e0ec-4058-9398-2ddacfdab346",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
