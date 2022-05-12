@@ -40,6 +40,8 @@
   font-size: 1.6rem;
   line-height: calc(1 + 0.5 / var(--font-body-scale));
   letter-spacing: 0.13rem;
+    color: crimson;
+    font-weight: 800;
 }
 
 @media screen and (min-width: 750px) {
