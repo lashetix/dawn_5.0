@@ -40,7 +40,7 @@
   font-size: 1.6rem;
   line-height: calc(1 + 0.5 / var(--font-body-scale));
   letter-spacing: 0.13rem;
-    color: crimson;
+    color: #ff0089;
     font-weight: 800;
 }
 
