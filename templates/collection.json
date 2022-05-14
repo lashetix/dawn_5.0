@@ -8,6 +8,15 @@
         "color_scheme": "accent-1"
       }
     },
+    "16525104492f82debe": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"margin:auto; text-align:center;border:solid 1px;max-width:800px;\">\nDon't know which lash is for you? Take the lash quiz now! <a href=\"\/pages\/lash-quiz\">Click Here -><\/a>\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -29,6 +38,7 @@
   },
   "order": [
     "banner",
+    "16525104492f82debe",
     "product-grid"
   ]
 }
