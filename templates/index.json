@@ -219,20 +219,11 @@
         "padding_bottom": 52
       }
     },
-    "1652632963c70aac3c": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<script type=\"text\/javascript\">\nvar _learnq = _learnq || [];\n  var classname = document.getElementsByClassName(\"product-form__submit button button--full-width button--primary\");\nvar addToCart = function() {\n_learnq.push(['track', 'Added to Cart', item]);\n}; for (var i = 0; i < classname.length; i++) {\nclassname[i].addEventListener('click', addToCart, false);\n}\n<\/script>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
         "title": "Best Sellers",
-        "heading_size": "h2",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -240,7 +231,7 @@
         "products_to_show": 3,
         "columns_desktop": 3,
         "full_width": false,
-        "show_view_all": false,
+        "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
@@ -248,11 +239,11 @@
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": true,
-        "enable_quick_add": true,
+        "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 32,
-        "padding_bottom": 0
+        "padding_bottom": 28
       }
     },
     "165203156730a5679c": {
@@ -300,7 +291,6 @@
     "16520218383daa474d",
     "1652026084995cda92",
     "1652030601e4b23c2f",
-    "1652632963c70aac3c",
     "featured_collection",
     "165203156730a5679c"
   ]
