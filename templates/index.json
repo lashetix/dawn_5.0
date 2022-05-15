@@ -219,6 +219,15 @@
         "padding_bottom": 52
       }
     },
+    "1652632963c70aac3c": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script type=\"text\/javascript\">\nvar _learnq = _learnq || [];\n  var classname = document.getElementsByClassName(\"product-form__submit button button--full-width button--primary\");\nvar addToCart = function() {\n_learnq.push(['track', 'Added to Cart', item]);\n}; for (var i = 0; i < classname.length; i++) {\nclassname[i].addEventListener('click', addToCart, false);\n}\n<\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -291,6 +300,7 @@
     "16520218383daa474d",
     "1652026084995cda92",
     "1652030601e4b23c2f",
+    "1652632963c70aac3c",
     "featured_collection",
     "165203156730a5679c"
   ]
