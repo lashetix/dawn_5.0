@@ -18,54 +18,6 @@
         "padding_bottom": 0
       }
     },
-    "16520317524563abc8": {
-      "type": "collage",
-      "blocks": {
-        "7a89a00c-f357-4758-8bc5-1b437b10f646": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BUNDLE_AND_SAVE.webp",
-            "image_padding": false
-          }
-        },
-        "f6f839a3-f7fa-4342-8842-40ad2feee4d3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PAYFLEX_b73767f2-52fc-41f9-a537-7ff170780444.webp",
-            "image_padding": false
-          }
-        },
-        "1652031752aa93515b-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "lash-bundles"
-          }
-        }
-      },
-      "block_order": [
-        "7a89a00c-f357-4758-8bc5-1b437b10f646",
-        "f6f839a3-f7fa-4342-8842-40ad2feee4d3",
-        "1652031752aa93515b-2"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "1652031693337485b5": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div > \n<div class=\"flex-container-left-on-top\">\n    \n    <div class=\"flex-item-left\">\n        <div class=\"flex-container\">\n            <div class=\"flex-item-one-two\"> \n                <img width=\"50px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/clock-solid.svg?v=1652040347\">\n                    <h5 style=\"color:black;\" >ALL DAY HOLD<\/h5>\n            <\/div>\n            <div class=\"flex-item-two-two\">\n                <img width=\"50px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/recycle-solid.svg?v=1652040348\">\n                <h5 style=\"color:black;\" >40+ WEARS<\/h5>\n            <\/div>\n        <\/div> \n    <\/div>\n\n    <div class=\"flex-item-right\">\n        <div class=\"flex-container\">\n            <div class=\"flex-item-one-two\"> \n                <img width=\"50px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/magnet-solid.svg?v=1652040348\">\n                <h5 style=\"color:black;\" >10 MAGNETS<\/h5>\n            <\/div>\n            <div class=\"flex-item-two-two\">\n                <img width=\"50px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/award-solid.svg?v=1652040348\">\n                <h5 style=\"color:black;\" >PREMIUM QUALITY<\/h5>\n            <\/div>\n        <\/div> \n    <\/div>\n\n<\/div>\n<\/div>",
-        "color_scheme": "accent-1",
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "16520305679b967c33": {
       "type": "rich-text",
       "blocks": {
@@ -151,6 +103,54 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
+      }
+    },
+    "1652031693337485b5": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div > \n<div class=\"flex-container-left-on-top\">\n    \n    <div class=\"flex-item-left\">\n        <div class=\"flex-container\">\n            <div class=\"flex-item-one-two\"> \n                <img width=\"50px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/clock-solid.svg?v=1652040347\">\n                    <h5 style=\"color:black;\" >ALL DAY HOLD<\/h5>\n            <\/div>\n            <div class=\"flex-item-two-two\">\n                <img width=\"50px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/recycle-solid.svg?v=1652040348\">\n                <h5 style=\"color:black;\" >40+ WEARS<\/h5>\n            <\/div>\n        <\/div> \n    <\/div>\n\n    <div class=\"flex-item-right\">\n        <div class=\"flex-container\">\n            <div class=\"flex-item-one-two\"> \n                <img width=\"50px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/magnet-solid.svg?v=1652040348\">\n                <h5 style=\"color:black;\" >10 MAGNETS<\/h5>\n            <\/div>\n            <div class=\"flex-item-two-two\">\n                <img width=\"50px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/award-solid.svg?v=1652040348\">\n                <h5 style=\"color:black;\" >PREMIUM QUALITY<\/h5>\n            <\/div>\n        <\/div> \n    <\/div>\n\n<\/div>\n<\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "16520317524563abc8": {
+      "type": "collage",
+      "blocks": {
+        "7a89a00c-f357-4758-8bc5-1b437b10f646": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BUNDLE_AND_SAVE.webp",
+            "image_padding": false
+          }
+        },
+        "f6f839a3-f7fa-4342-8842-40ad2feee4d3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PAYFLEX_b73767f2-52fc-41f9-a537-7ff170780444.webp",
+            "image_padding": false
+          }
+        },
+        "1652031752aa93515b-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "lash-bundles"
+          }
+        }
+      },
+      "block_order": [
+        "7a89a00c-f357-4758-8bc5-1b437b10f646",
+        "f6f839a3-f7fa-4342-8842-40ad2feee4d3",
+        "1652031752aa93515b-2"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "16520218383daa474d": {
@@ -284,10 +284,10 @@
   "order": [
     "1651328137f64edafb",
     "1652001804ad8693dc",
-    "16520317524563abc8",
-    "1652031693337485b5",
     "16520305679b967c33",
     "1652027696234cca78",
+    "1652031693337485b5",
+    "16520317524563abc8",
     "16520218383daa474d",
     "1652026084995cda92",
     "1652030601e4b23c2f",
