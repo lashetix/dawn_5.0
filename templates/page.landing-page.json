@@ -3,12 +3,22 @@
     "main": {
       "type": "main-page",
       "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "1653318470b76d4979": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n.header{\ndisplay:none !important;\n}\n.footer{\ndisplay: none !important;\n}\n.gradient {\n    margin-top: -10px;\n z-index: 0 !important;\n}\n\n<\/style>",
+        "color_scheme": "background-1",
         "padding_top": 28,
-        "padding_bottom": 28
+        "padding_bottom": 52
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1653318470b76d4979"
   ]
 }
