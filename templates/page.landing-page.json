@@ -3,10 +3,10 @@
     "1653318470b76d4979": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n.header{\ndisplay:none !important;\n}\n.footer{\ndisplay: none !important;\n}\n.gradient {\n    margin-top: -10px;\n z-index: 0 !important;\n}\n.main-page-title {\n\n    font-size: 36px;\n}\n<\/style>",
+        "custom_liquid": "<style>\n.header{\ndisplay:none !important;\n}\n.footer{\ndisplay: none !important;\n}\n.gradient {\n    margin-top: -10px;\n z-index: 0 !important;\n}\n.main-page-title {\n\n\n    font-size: 36px;\n}\n#shopify-section-announcement-bar{\ndisplay:none;\n}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 0,
-        "padding_bottom": 52
+        "padding_bottom": 20
       }
     },
     "main": {
@@ -15,10 +15,148 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "16534713461775cd9e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"product-form__buttons\" style=\"padding-left:15%;padding-right:15%;\">\n                    <button type=\"submit\" name=\"add\" class=\"product-form__submit button button--full-width button--primary\" style=\"    text-transform: uppercase;\nbackground: #ff3889; color:black; padding:15px;    border: 1px solid;\n    margin-bottom: 1rem;\n    box-shadow: 5px 5px #121212;\nfont-size:32px;\n    font-weight: 700;\n    letter-spacing: 2px;\">\n                        <span>Shop Now\n<\/span>\n                        <div class=\"loading-overlay__spinner hidden\">\n                          <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"spinner\" viewBox=\"0 0 66 66\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n                            <circle class=\"path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"><\/circle>\n                          <\/svg>\n                        <\/div>\n                    <\/button><div class=\"price__container\"><div class=\"price__regular\"><\/div>\n<span style=\"font-size:17px;font-weight:800; color:#00883b; letter-spacing:0px;\">+ Free 3 Day Delivery<\/span>\n<\/div>\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 8
+      }
+    },
+    "16534726269b8ed8fe": {
+      "type": "rich-text",
+      "blocks": {
+        "16534726265c46f81a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Don't Take Our Word For It",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16534726265c46f81a-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1653472519545e928b": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/testimonials.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "165347230415e55a14": {
+      "type": "rich-text",
+      "blocks": {
+        "1653472304a4d1a4c5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "🌟🌟🌟🌟🌟",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1653472304a4d1a4c5-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 12
+      }
+    },
+    "1653472721468f1c00": {
+      "type": "rich-text",
+      "blocks": {
+        "1653472720df3b95f5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FIVE Star Reviews",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1653472720df3b95f5-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "1653472182b5db019b": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TESTIMONIALS2.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "16534708910d8d5527": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Sellers",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "1653318470b76d4979",
-    "main"
+    "main",
+    "16534713461775cd9e",
+    "16534726269b8ed8fe",
+    "1653472519545e928b",
+    "165347230415e55a14",
+    "1653472721468f1c00",
+    "1653472182b5db019b",
+    "16534708910d8d5527"
   ]
 }
