@@ -92,7 +92,7 @@
         "16534726265c46f81a-0"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 52,
         "padding_bottom": 52
@@ -108,7 +108,7 @@
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
@@ -129,7 +129,7 @@
         "1653472304a4d1a4c5-0"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 12
@@ -150,7 +150,7 @@
         "1653472720df3b95f5-0"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 52
@@ -170,6 +170,24 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
+      }
+    },
+    "1653474783c8a92152": {
+      "type": "apps",
+      "blocks": {
+        "06f01e4d-92a1-450f-8808-641b66932bee": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080,
+            "show_header": false
+          }
+        }
+      },
+      "block_order": [
+        "06f01e4d-92a1-450f-8808-641b66932bee"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "16534708910d8d5527": {
@@ -219,6 +237,7 @@
     "165347230415e55a14",
     "1653472721468f1c00",
     "1653472182b5db019b",
+    "1653474783c8a92152",
     "16534708910d8d5527",
     "16534727264c8a3c55"
   ]
