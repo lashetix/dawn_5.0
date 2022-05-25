@@ -146,6 +146,15 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16534727264c8a3c55": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<a style=\"text-decoration:none;\"href=\"https:\/\/shoplashnetix.com\/collections\/shop-all-collections\">\n<div class=\"product-form__buttons\" style=\"padding-left:15%;padding-right:15%;\">\n                    <button type=\"submit\" name=\"add\" class=\"product-form__submit button button--full-width button--primary\" style=\"    text-transform: uppercase;\nbackground: #ff3889; color:black; padding:15px;    border: 1px solid;\n    margin-bottom: 1rem;\n    box-shadow: 5px 5px #121212;\nfont-size:32px;\n    font-weight: 700;\n    letter-spacing: 2px;\">\n                        <span>Shop All\n<\/span>\n                        <div class=\"loading-overlay__spinner hidden\">\n                          <svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"spinner\" viewBox=\"0 0 66 66\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n                            <circle class=\"path\" fill=\"none\" stroke-width=\"6\" cx=\"33\" cy=\"33\" r=\"30\"><\/circle>\n                          <\/svg>\n                        <\/div>\n                    <\/button><\/a>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -157,6 +166,7 @@
     "165347230415e55a14",
     "1653472721468f1c00",
     "1653472182b5db019b",
-    "16534708910d8d5527"
+    "16534708910d8d5527",
+    "16534727264c8a3c55"
   ]
 }
