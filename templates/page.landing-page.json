@@ -174,6 +174,7 @@
     },
     "1653474783c8a92152": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "06f01e4d-92a1-450f-8808-641b66932bee": {
           "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
