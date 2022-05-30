@@ -42,7 +42,7 @@
     "1653913898db54a62d": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<img style=\"text-align:center;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/trust-badges_61a1c668-109a-446e-9dd2-f86023ea0663.webp?v=1653914340>\"",
+        "custom_liquid": "<div style=\"text-align: center;\" >\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/trust-badges_61a1c668-109a-446e-9dd2-f86023ea0663.webp?v=1653914340>\"\n<\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
