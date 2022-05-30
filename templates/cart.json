@@ -38,11 +38,21 @@
       "settings": {
         "show_cart_note": false
       }
+    },
+    "1653913898db54a62d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<img style=\"text-align:center;\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/trust-badges_61a1c668-109a-446e-9dd2-f86023ea0663.webp?v=1653914340>\"",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "16539125890a44c5fd",
     "cart-items",
-    "cart-footer"
+    "cart-footer",
+    "1653913898db54a62d"
   ]
 }
