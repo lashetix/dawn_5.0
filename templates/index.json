@@ -27,6 +27,33 @@
         "padding_bottom": 0
       }
     },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Sellers",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "best-sellers",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 32,
+        "padding_bottom": 28
+      }
+    },
     "16520305679b967c33": {
       "type": "rich-text",
       "blocks": {
@@ -219,33 +246,6 @@
         "padding_bottom": 52
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Best Sellers",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "best-sellers",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 32,
-        "padding_bottom": 28
-      }
-    },
     "165203156730a5679c": {
       "type": "newsletter",
       "blocks": {
@@ -285,13 +285,13 @@
     "1651328137f64edafb",
     "1652031693337485b5",
     "1652001804ad8693dc",
+    "featured_collection",
     "16520305679b967c33",
     "1652027696234cca78",
     "16520317524563abc8",
     "16520218383daa474d",
     "1652026084995cda92",
     "1652030601e4b23c2f",
-    "featured_collection",
     "165203156730a5679c"
   ]
 }
