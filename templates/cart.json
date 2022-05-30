@@ -3,7 +3,7 @@
     "16539125890a44c5fd": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n.footer{\ndisplay:none;\n}\n.announcement-bar__message {\n    height: 20px;\n    padding-top: 2px;\n    display: none;\n}\n.button, .shopify-challenge__button, .customer button {\n    background-color: #ff3889 !important;\n    box-shadow: 5px 5px black !important;\n}\n\nelement.style {\n}\n.cart-remove-button{\n    background-color: white !important;\n<\/style>",
+        "custom_liquid": "<style>\n.footer{\ndisplay:none;\n}\n.announcement-bar__message {\n    height: 20px;\n    padding-top: 2px;\n    display: none;\n}\n.cart__checkout-button{\n    background-color: #ff3889 !important;\n    box-shadow: 5px 5px black !important;\n}\n\nelement.style {\n}\n.cart-remove-button{\n    background-color: white !important;\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
