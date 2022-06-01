@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
- {% if handle contains 'landing-page' %}
+   {% if template contains 'page' and page.url == '/pages/landing-page' %}
 <meta name="robots" content="noindex">
    {% endif %}
     {% if template contains 'landing-page' %}
