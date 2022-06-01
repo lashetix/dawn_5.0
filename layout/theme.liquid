@@ -4,6 +4,12 @@
  {% if handle contains 'landing-page' %}
 <meta name="robots" content="noindex">
    {% endif %}
+    {% if template contains 'landing-page' %}
+<meta name="robots" content="noindex">
+   {% endif %}
+    {% if template contains 'search' %}
+<meta name="robots" content="noindex">
+{% endif %}
     
     {% if template contains 'page' and page.url == '/pages/vip' %}
   {% render 'coke-vip.liquid' %}
