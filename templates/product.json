@@ -5,6 +5,7 @@
       "blocks": {
         "a998e781-c8dc-40b0-89ec-94d325db5cf5": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.my_fields.lash_style.value }}",
             "text_style": "body"
