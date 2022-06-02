@@ -27,6 +27,12 @@
           "settings": {
           }
         },
+        "194ad55b-2769-4e3c-9807-823b629642ae": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<style>\n@media (max-width: 768px){\n        #partPayCalculatorWidget1 {\n                margin-bottom:-68px !important;\n                margin-left:-15% !important;\n        }\n        #partPayCalculatorWidgetLogo{\n                margin-top: -2.5em!important;\n                margin-left: 88% !important;\n                width:28% !important;\n        }\n}\n<\/style>\n<div style=\"margin-top:-25px;\">\n<script async src=\"https:\/\/widgets.payflex.co.za\/your-merchant-name\/partpay-widget-0.1.1.js?type=calculator&min=10&max=20000&amount={{ product.price | money_without_currency | remove: ',' }}\" type=\"application\/javascript\"><\/script>\n<\/div>"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -37,12 +43,6 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false
-          }
-        },
-        "194ad55b-2769-4e3c-9807-823b629642ae": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<style>\n@media (max-width: 768px){\n        #partPayCalculatorWidget1 {\n                margin-bottom:-68px !important;\n                margin-left:-15% !important;\n        }\n        #partPayCalculatorWidgetLogo{\n                margin-top: -2.5em!important;\n                margin-left: 88% !important;\n                width:28% !important;\n        }\n}\n<\/style>\n<div style=\"margin-top:-25px;\">\n<script async src=\"https:\/\/widgets.payflex.co.za\/your-merchant-name\/partpay-widget-0.1.1.js?type=calculator&min=10&max=20000&amount={{ product.price | money_without_currency | remove: ',' }}\" type=\"application\/javascript\"><\/script>\n<\/div>"
           }
         },
         "b68fbdae-58c3-4361-957c-af1156fd7d31": {
@@ -101,9 +101,9 @@
         "title",
         "caption",
         "price",
+        "194ad55b-2769-4e3c-9807-823b629642ae",
         "variant_picker",
         "buy_buttons",
-        "194ad55b-2769-4e3c-9807-823b629642ae",
         "b68fbdae-58c3-4361-957c-af1156fd7d31",
         "description",
         "collapsible-row-0",
