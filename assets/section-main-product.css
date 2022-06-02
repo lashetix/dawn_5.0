@@ -343,6 +343,8 @@ a.product__text {
 
 .product__title > * {
   margin: 0;
+  margin-top: -0.5em;
+    margin-bottom: 0.2em;
 }
 
 .product__title > a {
