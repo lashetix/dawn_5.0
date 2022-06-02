@@ -11,17 +11,16 @@
             "text_style": "body"
           }
         },
-        "title": {
-          "type": "title",
-          "settings": {
-          }
-        },
         "caption": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
           }
         },
         "price": {
@@ -100,8 +99,8 @@
       },
       "block_order": [
         "a998e781-c8dc-40b0-89ec-94d325db5cf5",
-        "title",
         "caption",
+        "title",
         "price",
         "194ad55b-2769-4e3c-9807-823b629642ae",
         "variant_picker",
