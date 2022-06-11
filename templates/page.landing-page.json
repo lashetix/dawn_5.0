@@ -12,7 +12,7 @@
     "1653318470b76d4979": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n\n.footer{\ndisplay: none !important;\n}\n.gradient {\n    margin-top: -10px;\n z-index: 0 !important;\n}\n.main-page-title {\n\n\n    font-size: 36px;\n}\n#shopify-section-announcement-bar{\ndisplay:none;\n}\n<\/style>",
+        "custom_liquid": "<style>\n\n.footer{\ndisplay: none !important;\n}\n\n.main-page-title {\n\n\n    font-size: 36px;\n}\n#shopify-section-announcement-bar{\ndisplay:none;\n}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
@@ -21,7 +21,7 @@
     "16549651485adf68a5": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "{% if template contains 'page' and page.url == '\/pages\/landing-page' %}\n<style>\n\n.header{\ndisplay:none !important;\n}\n<\/style>\n<div style=\"text-align:center;border-bottom:solid black 3px;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/new_logo.webp?v=1653481245\"\nwidth=\"134px\">\n{% endif %}",
+        "custom_liquid": "{% if template contains 'page' and page.url == '\/pages\/landing-page' %}\n<style>\n.gradient {\n    margin-top: -10px;\n z-index: 0 !important;\n}\n.header{\ndisplay:none !important;\n}\n<\/style>\n<div style=\"text-align:center;border-bottom:solid black 3px;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/new_logo.webp?v=1653481245\"\nwidth=\"134px\">\n{% endif %}",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
