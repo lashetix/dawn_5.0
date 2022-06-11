@@ -12,7 +12,7 @@
     "1653318470b76d4979": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n\n.footer{\ndisplay: none !important;\n}\n\n.main-page-title {\n\n\n    font-size: 36px;\n}\n#shopify-section-announcement-bar{\ndisplay:none;\n}\n<\/style>",
+        "custom_liquid": "<style>\n.pics{\n    border: none;\n    box-shadow: none;\n    margin: -15px;\n    width: 119%;\n    max-width: -webkit-fill-available;\n}\n.footer{\ndisplay: none !important;\n}\n\n.main-page-title {\n\n\n    font-size: 36px;\n}\n#shopify-section-announcement-bar{\ndisplay:none;\n}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
