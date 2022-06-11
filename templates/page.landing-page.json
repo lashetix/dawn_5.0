@@ -12,7 +12,7 @@
     "1653318470b76d4979": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n.pics{\n    border: none;\n    box-shadow: none;\n    margin: -15px;\n    width: 119%;\n    max-width: -webkit-fill-available;\n}\n.footer{\ndisplay: none !important;\n}\n\n.main-page-title {\n\n\n    font-size: 36px;\n}\n#shopify-section-announcement-bar{\ndisplay:none;\n}\n<\/style>",
+        "custom_liquid": "<style>\n.rte img{\n    border: none;\n    box-shadow: none;\n    margin: -15px;\n    width: 119%;\n    max-width: -webkit-fill-available;\n}\n.footer{\ndisplay: none !important;\n}\n\n.main-page-title {\n\n\n    font-size: 36px;\n}\n#shopify-section-announcement-bar{\ndisplay:none;\n}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
@@ -41,58 +41,6 @@
         "color_scheme": "background-1",
         "padding_top": 28,
         "padding_bottom": 8
-      }
-    },
-    "1653473718245d3095": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "165347371734dbebae-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "165347371734dbebae-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "165347371734dbebae-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "165347371734dbebae-0",
-        "165347371734dbebae-1",
-        "165347371734dbebae-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/guaranteed-safe-checkout-1.png",
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": true,
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
       }
     },
     "16534726269b8ed8fe": {
@@ -251,7 +199,6 @@
     "16549651485adf68a5",
     "main",
     "16534713461775cd9e",
-    "1653473718245d3095",
     "16534726269b8ed8fe",
     "1653472519545e928b",
     "165347230415e55a14",
