@@ -1,21 +1,30 @@
 {
   "sections": {
+    "16534811523db71ee8": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 16
+      }
+    },
     "1653318470b76d4979": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\n.header{\ndisplay:none !important;\n}\n.footer{\ndisplay: none !important;\n}\n.gradient {\n    margin-top: -10px;\n z-index: 0 !important;\n}\n.main-page-title {\n\n\n    font-size: 36px;\n}\n#shopify-section-announcement-bar{\ndisplay:none;\n}\n<\/style>",
+        "custom_liquid": "<style>\n\n.footer{\ndisplay: none !important;\n}\n.gradient {\n    margin-top: -10px;\n z-index: 0 !important;\n}\n.main-page-title {\n\n\n    font-size: 36px;\n}\n#shopify-section-announcement-bar{\ndisplay:none;\n}\n<\/style>",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
       }
     },
-    "16534811523db71ee8": {
+    "16549651485adf68a5": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"text-align:center;border-bottom:solid black 3px;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/new_logo.webp?v=1653481245\"\nwidth=\"134px\">",
+        "custom_liquid": "{% if template contains 'page' and page.url == '\/pages\/landing-page' %}\n<style>\n\n.header{\ndisplay:none !important;\n}\n<\/style>\n<div style=\"text-align:center;border-bottom:solid black 3px;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0633\/6040\/1634\/files\/new_logo.webp?v=1653481245\"\nwidth=\"134px\">\n{% endif %}",
         "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 16
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "main": {
@@ -188,8 +197,7 @@
         "06f01e4d-92a1-450f-8808-641b66932bee": {
           "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "maxwidth": 1080,
-            "show_header": false
+            "maxwidth": 1080
           }
         }
       },
@@ -238,8 +246,9 @@
     }
   },
   "order": [
-    "1653318470b76d4979",
     "16534811523db71ee8",
+    "1653318470b76d4979",
+    "16549651485adf68a5",
     "main",
     "16534713461775cd9e",
     "1653473718245d3095",
